@@ -4,7 +4,7 @@
 * [Aboud FLOW](doc3.md)
 * [Create Maps](doc4.md)
 * [Upload Data](doc5.md)
-* [Editor](doc6.md)
+* [Upload using Editor](doc6.md)
 * [Using GEO](doc7.md)
 * [Navigation Bar](doc8.md)
 * [Base Maps and Search](doc9.md)
