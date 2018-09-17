@@ -1,9 +1,3 @@
----
-id: doc2
-title: Register your account
-Register
----
-
 ## About mapid account
 
 **Due to development website environment, we recommend you to use google chrome as mapid webbrowser**

@@ -1,10 +1,3 @@
----
-id: doc9
-title: Base maps and search
-Basemaps
----
-
-
 ## Base Map
 
 On the upper right of geo.mapid.io, you will find base map that allows you to change the display of the map. There are 4 type of base map; Street, Satellite, Hybrid and Terrain.

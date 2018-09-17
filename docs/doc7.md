@@ -1,8 +1,3 @@
----
-id: doc7
-title: Using geo.mapid.io
-Using geomapid
----
 # Using geo.mapid.io
 
 In this section, we will explain you how to use geo.mapid.io. It will be explain into five topics;

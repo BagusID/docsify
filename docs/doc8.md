@@ -1,9 +1,3 @@
----
-id: doc8
-title: Navigation Bar
-Navigation bar
----
-
 ## Navigation Bar
 
 geo.mapid.io has 4 main features that are placed on the navigation bar. There are toolbox, details, inspect, and navigate. Each feature are provided for make your work get easier when you want to make geospatial analysis.

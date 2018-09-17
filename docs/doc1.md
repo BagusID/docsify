@@ -1,8 +1,5 @@
----
-id: doc1
-title: Welcome to mapid
-General Information
----
+## Welcome
+
 Hi! Welcome to mapid.io. A geospatial based sharing platform that allows you to create, modify and visualize your data into a map. Share your maps like never before!
 
 ![enter image description here](https://s3.amazonaws.com/docs.mapid.io/images/Screen+Shot+2018-08-20+at+13.58.57.png)

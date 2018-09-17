@@ -1,8 +1,3 @@
----
-id: doc3
-title: Using Flow
-About mapid flow
----
 # Your mapid account
 
 Congratulations! you are now registered as a member of [mapid.io](http://mapid.io). The menu on your left are created to help you manser roie your her main features in the menu: **User Profile, Layer List, Uploads, and Preview**.

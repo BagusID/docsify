@@ -1,9 +1,3 @@
----
-id: doc4
-title: Create your first maps
-Create maps
----
-
 ## Creating your first features
 
 There is two option to create your maps.
